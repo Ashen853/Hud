@@ -1,0 +1,6 @@
+{
+  "name": "Sierra-07: Quest 3 Passthrough HUD",
+  "description": "Futuristic head-locked video game HUD for Meta Quest 3 WebXR passthrough featuring real-time health, fictional ammo counter, and Ashen (Sierra-07) callsign.",
+  "requestFramePermissions": ["camera", "xr-spatial-tracking"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
